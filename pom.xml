@@ -121,6 +121,13 @@
 				</plugin>
 			</plugins>
 		</pluginManagement>
+		<plugins>
+			<plugin>
+				<groupId>ETA_SB</groupId>
+				<artifactId>jntu_calc_application</artifactId>
+				<version>0.0.1-SNAPSHOT</version>
+			</plugin>
+		</plugins>
 	</build>
 	<distributionManagement>
 		<repository>
